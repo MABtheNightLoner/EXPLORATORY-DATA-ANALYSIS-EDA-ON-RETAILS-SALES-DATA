@@ -35,5 +35,5 @@ Based on the statistical summary provided, here are some recommendations:
 5. Pricing Strategy Adjustment: 
    - Given the significant variability in the price per unit and total amount, consider conducting a deeper analysis to understand the factors driving high and low spending. Adjusting pricing strategies, such as dynamic pricing or personalized discounts, could help in maximizing profit margins while maintaining customer satisfaction.
 
-
+🇳🇬
 
